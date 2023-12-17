@@ -8,7 +8,7 @@ export default function AppRoutes() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<HomePage/>} />
+                <Route path="/yamunaji-website" element={<HomePage/>} />
                 <Route path="/about" element={<AboutPage/>} />
             </Routes>
         </BrowserRouter>
