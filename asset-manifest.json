@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yamunaji-website/static/css/main.815cacf6.css",
+    "main.js": "/yamunaji-website/static/js/main.eb17ef47.js",
+    "static/js/787.3acb5a70.chunk.js": "/yamunaji-website/static/js/787.3acb5a70.chunk.js",
+    "static/media/logo.png": "/yamunaji-website/static/media/logo.38c829aef7417420c006.png",
+    "static/media/primeicons.svg": "/yamunaji-website/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/yamunaji-website/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/yamunaji-website/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/yamunaji-website/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/yamunaji-website/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/yamunaji-website/index.html",
+    "main.815cacf6.css.map": "/yamunaji-website/static/css/main.815cacf6.css.map",
+    "main.eb17ef47.js.map": "/yamunaji-website/static/js/main.eb17ef47.js.map",
+    "787.3acb5a70.chunk.js.map": "/yamunaji-website/static/js/787.3acb5a70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815cacf6.css",
+    "static/js/main.eb17ef47.js"
+  ]
+}
